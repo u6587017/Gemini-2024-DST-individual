@@ -1,12 +1,12 @@
 # Requirements (functional and non-functional) of the Gemini project
-### Team members
+## Team members
 - นายธนวิชญ์ จึงกิจธนวัฒน์ 6587017
 - นายจิตรกัณฐ์ ดำรงตระกูลวัฒน์ 6587051
 - นายณปภัช นภัสนันท์ 6587053
 - นายธัชกร โกมลคงอยู่ 6587055
 - นายสันติภาพ โชติมานนท์ 6587105
 
-### Functional 
+## Functional Requirements
 
 #### ระบบ
 -	ระบบสามารถเข้าถึงได้ 3 ระดับ แบ่งเป็น 1. ระดับการสังเกตการณ์ (Observing Level): รองรับการดำเนินการทางวิทยาศาสตร์ตามปกติ เช่น การเก็บข้อมูลและควบคุมกล้องโทรทรรศน์ 2. ระดับการบำรุงรักษา (Maintenance Level): ใช้สำหรับการบำรุงรักษาและการวินิจฉัยระบบในช่วงเวลาที่ไม่มีการสังเกตการณ์ 3. ระดับการทดสอบ (Test Level): ใช้สำหรับติดตั้ง วินิจฉัย และสอบเทียบระบบย่อยต่างๆ
@@ -55,7 +55,7 @@
 -	ผู้ดูแลระบบสามารถเข้าถึงระดับ Observing Level, Maintenance Level และ Test Level ได้
 -	ผู้ดูแลระบบมีความสามารถเข้าถึงโหมด Monitoring และ Administrative ได้
 
-### Non-functional
+## Non-functional Requirements
 
 #### UI(User Interface)
 - UI (User Interface) ต้องใช้งานง่าย เรียนรู้ได้เร็ว และปลอดภัยสำหรับผู้ใช้ทุกคน 
