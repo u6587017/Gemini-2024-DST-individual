@@ -23,6 +23,6 @@ jobs:
 
     - name: Compile Java
       run: |
-        cd Suntipap_6587105/HolidayTravelVehicles 
+        cd Suntipap/HolidayTravelVehicles 
         javac -d . *.java
       # Compile java file from directory
