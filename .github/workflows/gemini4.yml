@@ -23,6 +23,6 @@ jobs:
 
     - name: Compile Java
       run: |
-        cd Thanawich/HolidayTravelVehicles 
-        javac -d . App.java
+        cd Thanawich_6587017/HolidayTravelVehicles 
+        javac -d . *.java
       # Compile java file from directory
