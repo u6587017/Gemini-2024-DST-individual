@@ -25,4 +25,7 @@ jobs:
       run: |
         cd Suntipap/HolidayTravelVehicles 
         javac main.java
-      # Compile java file from directory
+    - name: Run app Java
+      run: |
+        cd Suntipap/HolidayTravelVehicles 
+        java main
