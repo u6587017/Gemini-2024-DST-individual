@@ -24,5 +24,8 @@ jobs:
     - name: Compile Java
       run: |
         cd Thanawich/HolidayTravelVehicles/src 
-        javac -d . *.java
-      # Compile java file from directory
+        javac Main.java
+    - name: Run app Java
+      run: |
+        cd Thanawich/HolidayTravelVehicles/src 
+        java Main
